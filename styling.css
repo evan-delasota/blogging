@@ -33,8 +33,16 @@ h1, h2 {
     text-align: justify;
     margin-bottom: 20px;
 }
+
+.other-text {
+    margin-bottom: 40px;
+}
+
 .author-text {
     font-size: 22px;
+    float: left;
+    margin-top: 75px;
+    margin-left: 15px;
 }
 
 .container {
@@ -60,4 +68,11 @@ h1, h2 {
     border-top: 1px solid #333;
     padding-top: 20px;
     margin-top: 10px;
+}
+
+.author-box img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
 }
